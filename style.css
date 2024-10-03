@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(196, 4, 4);
+    font-family: 'Courier New', Courier,monospace;
+}
+#container{
+    display: flex;
+}
+
+.cartão{
+    margin: 1rem 1rem;
+    background-color: aqua;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    bottom:0;
+    position:fixed;
+    width:100%;
+}
+footer p{
+    text-align: center;
+    font-size: 0.6rem;
+    margin-top: 0,5rem;
+}
